@@ -43,7 +43,7 @@ builds/**/images/*
 *.mp3
 *.mp4
 *.png
-*.jpeg
+
 
 # security / ssl
 *.pem
